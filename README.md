@@ -1,20 +1,20 @@
 # E-Commerce-Sales-Data
 
-###Project Review 
+### Project Review
 
 The dataset in file E-Commerce Dashboard dataset.xlsx contains sales data for different product categories
 
-###Data Source 
+### Data Source 
 
 E-Commerce Dashboard Dataset: The primary dataset used for this analysis is the "E-Commerce Dashboard dataset.xlsx" containing detailed information pertaining products sales & profits month-wise along with region-wise while using combo box for product category, a column chart, and dashboard
 
-###Tools
+### Tools
 
 - Excel - Dashboarding
 - SQL Server - Data Analysis
 - Tableau - Visualization
 
-###Data Preparation
+### Data Preparation
 
 1. Prepare a table of Sales and Profit month-wise in a working sheet
 2. Prepare the sales table region-wise in the working sheet
