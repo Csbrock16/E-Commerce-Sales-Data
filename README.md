@@ -2,11 +2,11 @@
 
 ### Project Review
 
-The dataset in file E-Commerce Dashboard dataset.xlsx contains sales data for different product categories
+The dataset in file E-Commerce Dashboard Project - #1.xlsx contains sales data for different product categories
 
 ### Data Source 
 
-E-Commerce Dashboard Dataset: The primary dataset used for this analysis is the "E-Commerce Dashboard dataset.xlsx" containing detailed information pertaining products sales & profits month-wise along with region-wise while using combo box for product category, a column chart, and dashboard
+E-Commerce Dashboard Dataset: The primary dataset used for this analysis is the "E-Commerce Dashboard Project - #1.xlsx" containing detailed information pertaining products sales & profits month-wise along with region-wise while using combo box for product category, a column chart, and dashboard
 
 ### Tools
 
