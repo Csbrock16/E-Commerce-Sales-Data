@@ -11,8 +11,6 @@ E-Commerce Dashboard Dataset: The primary dataset used for this analysis is the 
 ### Tools
 
 - Excel - Dashboarding
-- SQL Server - Data Analysis
-- Tableau - Visualization
 
 ### Data Preparation
 
