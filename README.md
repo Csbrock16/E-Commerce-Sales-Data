@@ -56,7 +56,7 @@ Months	The month of placing the order
 ### Results/Findings 
 
 Figured Out: 
-  - what month generated the most sales & profits based on the different products sold
-  - which region gained the most in sales based on the different products sold
+  - What month generated the most sales & profits based on the different products sold
+  - Which region gained the most in sales based on the different products sold
 
 
